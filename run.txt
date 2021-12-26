@@ -1,0 +1,2 @@
+javac Encrypter.java Decrypter.java Main.java
+java Main gilsahar123 gilsahar123 plaintext.txt decrypted.txt
